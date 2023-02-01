@@ -1,0 +1,6 @@
+name: DeadChest
+version: '${project.version}'
+main: aurotem.deadchest
+api-version: 1.19
+authors: [ Aurotem ]
+description: Chest that appears when you die!
